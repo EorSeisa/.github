@@ -1,6 +1,6 @@
 # EorSeisa
 
-![FFXIV Image](../assets/f1t1_home.webp)
+![FFXIV Image](https://raw.githubusercontent.com/EorSeisa/.github/staging/assets/f1t1_home.webp)
 
 Work-in-progress tools for extracting data from Final Fantasy XIV Online.
 
@@ -30,4 +30,4 @@ Link: [eorseisa-blender-importer](https://github.com/EorSeisa/eorseisa-blender-i
 
 ## Contact Information:
 
-
+Discord: Nimetön#3612
