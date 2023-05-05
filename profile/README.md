@@ -9,7 +9,8 @@ Work-in-progress tools for extracting data from Final Fantasy XIV Online.
 ### EorSeisa:
 
 A GUI for extracting environment, item, and character models from the game.  
-Link: [Closed beta, contact for access]
+Source code: [EorSeisa](https://github.com/EorSeisa/EorSeisa)
+Binaries: [EorSeisa-git-116cd37](https://github.com/EorSeisa/EorSeisa/releases/tag/first-binary)
 
 ### CraftPilot:
 
